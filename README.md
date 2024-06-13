@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **CreativeNick/creativenick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
